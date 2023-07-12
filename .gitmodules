@@ -1,0 +1,3 @@
+[submodule "sysbench/sysbench"]
+	path = sysbench/sysbench
+	url = https://github.com/akopytov/sysbench.git
