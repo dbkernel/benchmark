@@ -1,3 +1,6 @@
 [submodule "sysbench/sysbench"]
 	path = sysbench/sysbench
 	url = https://github.com/akopytov/sysbench.git
+[submodule "benchmarksql"]
+	path = benchmarksql
+	url = https://github.com/petergeoghegan/benchmarksql
