@@ -4,3 +4,6 @@
 [submodule "benchmarksql"]
 	path = benchmarksql
 	url = https://github.com/petergeoghegan/benchmarksql
+[submodule "tpcc-mysql/tpcc-mysql"]
+	path = tpcc-mysql/tpcc-mysql
+	url = https://github.com/Percona-Lab/tpcc-mysql.git
