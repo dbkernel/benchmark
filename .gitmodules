@@ -7,3 +7,6 @@
 [submodule "tpcc-mysql/tpcc-mysql"]
 	path = tpcc-mysql/tpcc-mysql
 	url = https://github.com/Percona-Lab/tpcc-mysql.git
+[submodule "optimizer/join-order-benchmark"]
+	path = optimizer/join-order-benchmark
+	url = https://github.com/gregrahn/join-order-benchmark.git
